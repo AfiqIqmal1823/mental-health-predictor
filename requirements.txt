@@ -1,4 +1,4 @@
 streamlit
-matplotlib
 numpy
-tensorflow
+matplotlib
+tensorflow==2.11.0
